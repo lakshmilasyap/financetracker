@@ -97,6 +97,7 @@ Then choose:
 Note
 If your system uses python3, update this line in your code:  
 system("python3 graph.py");  
+To continue close the graph file.
 
 What the Graph Shows  
 X-axis → Days of the month (1–31)  
