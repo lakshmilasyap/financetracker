@@ -42,7 +42,9 @@ The system dynamically calculates totals and triggers alerts.
 Summaries and comparisons can be generated anytime.  
 Graphs can be visualized using Python.  
   
-#Setting Up Python & Running Graph Feature
+#Setting Up Python & Running Graph Feature  
+Note  
+Graph option by following given instructions works only in windows(does not work in linux)  
   
 Follow these steps to enable and use the graph visualization in this project.
 
