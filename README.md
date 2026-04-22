@@ -92,9 +92,9 @@ First, use the program to:
 Add expenses  
 Generate Monthly Summary (this creates daily.txt)
 Then choose:  
-8. Generate Graph (Python)  
-Note
+8. Generate Graph (Python)
 
+Note
 If your system uses python3, update this line in your code:  
 system("python3 graph.py");  
 
